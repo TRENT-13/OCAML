@@ -1,0 +1,1 @@
+let rec palindrome lst = List.rev lst = lst
